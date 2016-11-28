@@ -2,9 +2,7 @@
 See the [Base16 repository](https://github.com/chriskempson/base16) for more information.
 This theme was built with [Base16 Builder](https://github.com/chriskempson/base16-builder).
 
-Supports MonoDevelop and VisualStudio for Mac
-http://www.monodevelop.com/
-https://www.visualstudio.com/vs/visual-studio-mac/
+Supports [MonoDevelop](http://www.monodevelop.com/) and [VisualStudio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
 
 ![Base16 Vim](base16-monodevelop.png)
 
